@@ -22,8 +22,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JorgeLuque | LinkedIn" width="22px" src="https://svgrepo.com/show/448234/linkedin.svg" />][linkedin]
-[<img align="left" alt="JorgeLuque | ProtonMail" width="22px" src="https://svgrepo.com/show/424662/email-newsletter-subscription.svg" />][email]
+[<img align="left" alt="JorgeLuque | LinkedIn" width="36px" src="https://svgrepo.com/show/448234/linkedin.svg" />][linkedin]
+[<img align="left" alt="JorgeLuque | ProtonMail" width="36px" src="https://svgrepo.com/show/424662/email-newsletter-subscription.svg" />][email]
 
 [email]: mailto:LuqJo@outlook.com
 [linkedin]: https://linkedin.com/in/jluq/
